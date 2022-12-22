@@ -3,6 +3,7 @@
 	"description": "My FCC Node.js and NPM tutorial",
   "keywords": ["freecodecamp","tutorial","forked","nodejs","npm"],
   "license": "MIT",
+  "version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
