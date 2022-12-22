@@ -1,5 +1,6 @@
 {
 	"author": "Marc Abadie",
+	"description": "My FCC Node.js and NPM tutorial",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
